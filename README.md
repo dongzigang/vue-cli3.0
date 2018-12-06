@@ -50,7 +50,7 @@ vue create hello-world
 完事之后要自己新建一个vue.config.js在根目录下，之前webpack的相关配置现在都写在这里！
 
 
-这个版本也没有.babelrc 这个文件了！babeld的配置现在在babel.config.js里面配置！
+这个版本也没有.babelrc 这个文件了！babel的配置现在在babel.config.js里面配置！
 
 ## 配置css预编译处理的公用文件（如variables.less）
 
